@@ -1,0 +1,7 @@
+{
+  "model": "EfficientNet-B0 (CodeCrafters)",
+  "dataset": "HAM10000",
+  "accuracy": 85.3,
+  "f1_weighted": 0.8548,
+  "f1_macro": 0.7648
+}
