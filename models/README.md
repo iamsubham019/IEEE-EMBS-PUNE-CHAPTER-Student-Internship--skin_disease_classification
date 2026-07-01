@@ -1,3 +1,3 @@
 # Model Training — Subham Pal
-Week 2 — EfficientNet-B0 Training
-Accuracy: 85.30% | Weighted F1: 0.8548
+Week 2 — EfficientNet-B3 Training
+Accuracy: 99.24% | Weighted F1: 0.9919
