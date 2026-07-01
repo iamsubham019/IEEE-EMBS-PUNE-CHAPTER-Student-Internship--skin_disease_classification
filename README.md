@@ -32,6 +32,7 @@ Skin cancer is one of the most prevalent and life-threatening cancers globally. 
 ├── README.md
 ├── .gitignore
 ├── LICENSE
+├── label_map.json                       ← Class name → index mapping
 │
 ├── data/
 │   ├── Swarnali_Data_Preprocessing.ipynb   ← Data prep & preprocessing notebook
@@ -39,7 +40,6 @@ Skin cancer is one of the most prevalent and life-threatening cancers globally. 
 │   ├── val.csv                              ← Validation split (1,838 images)
 │   ├── test.csv                             ← Test split (1,852 images)
 │   ├── class_weights.npy                    ← Computed log-smoothed class weights
-│   ├── label_map.json                       ← Class name → index mapping
 │   ├── preprocessing_steps.png             ← Preprocessing pipeline visualization
 │   ├── class_distribution.png              ← Class imbalance chart
 │   └── sample_images.png                   ← Sample images per class
