@@ -2,7 +2,7 @@
 ### IEEE EMBS Pune Chapter — Student Internship 2026
 **Team CodeCrafters | Team ID: AI ML-21**
 
-> Multi-class dermoscopic skin lesion classification across 7 diagnostic categories using an ensemble of pretrained CNN backbones, trained on HAM10000 augmented with ISIC-2019 rare-class images.
+> Multi-class dermoscopic skin lesion classification across 7 diagnostic categories using pretrained EfficientNet-B3 as backbone, trained on HAM10000 augmented with ISIC-2019 rare-class images.
 
 ---
 
