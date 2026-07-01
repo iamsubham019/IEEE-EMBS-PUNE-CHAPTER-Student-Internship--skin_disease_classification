@@ -69,4 +69,4 @@ temp/
 # ── Kaggle ────────────────────────────────────────────────
 kaggle.json
 
-state.db
+deployment/state.db
